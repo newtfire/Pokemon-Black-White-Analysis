@@ -1,10 +1,11 @@
-@font-face
-{
-    font-family: 'BWDialoge';
-    src: url('fonts/pokemon-b-w.otf.woff2');
-}
 body
 {
-    background-color: grey;
+    background-image: url("file:///C:/Users/kra5379/Documents/GitHub/Pokemon-Black-White-Analysis/docs/images/background.png");
+    background-size: cover;
     font-family: serif;
+}
+div.legendaries
+{
+    display: flex;
+    flex-direction: column;
 }
