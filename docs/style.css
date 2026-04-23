@@ -2,10 +2,16 @@ body
 {
     background-image: url("file:///C:/Users/kra5379/Documents/GitHub/Pokemon-Black-White-Analysis/docs/images/background.png");
     background-size: cover;
+    color: white;
     font-family: serif;
+    font-size: 2em;
 }
 div.legendaries
 {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    margin-top: 5vh;
+    margin-bottom: 10vh;
+    width: 30vw;
+    text-align: center;
 }
