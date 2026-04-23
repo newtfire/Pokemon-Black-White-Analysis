@@ -12,6 +12,6 @@ div.legendaries
     flex-direction: row;
     margin-top: 5vh;
     margin-bottom: 10vh;
-    width: 30vw;
-    text-align: center;
+    width: 20vw;
+    height: 15vw;
 }
